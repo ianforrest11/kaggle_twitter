@@ -11,6 +11,7 @@ numpy = "*"
 ipykernel = "*"
 jupyter = "*"
 sklearn = "*"
+nltk = "*"
 
 [requires]
 python_version = "3.9"
