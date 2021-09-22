@@ -8,10 +8,9 @@ verify_ssl = true
 [packages]
 pandas = "*"
 numpy = "*"
-ipykernel = "*"
-jupyter = "*"
 sklearn = "*"
 nltk = "*"
+ipykernel = "*"
 
 [requires]
 python_version = "3.9"
